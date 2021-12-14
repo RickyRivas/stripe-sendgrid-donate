@@ -5,6 +5,3 @@
 [dev]
   publish = "public"
   functions = "functions"
-
-  STRIPE_PUBLISHABLE_KEY='pk_test_51J8FIAGrIZfge3TFXE7N1lOEydahl1q7pfIvvsOnfsDRB5Dg78aWToRxZuLLrPzrWknnjsERwwmrgkcigze48izy008G7AGDvK'
-  STRIPE_SECRET_KEY='sk_test_51J8FIAGrIZfge3TFq4RhZaRU4DiHksG4hoSzMpWwsLSwGujZb4rPbQs7McDOwU2h7p4i17JLGUSCssROVGcRWB1q00FrOBx2Ew'
