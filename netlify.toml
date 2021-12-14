@@ -1,0 +1,11 @@
+[build]
+  command = "npm run functions"
+  publish = "public"
+  functions = "functions"
+
+[dev]
+  publish = "public"
+  functions = "functions"
+
+  STRIPE_PUBLISHABLE_KEY=''
+  STRIPE_SECRET_KEY=''
